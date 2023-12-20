@@ -26,7 +26,7 @@
 *15 -> 19 Enero 2024*
 #### Tema U1.3 Control del flujo de ejecución:
 ##### Tema U1.3.a El enunciado (statements) if
-##### Tema U1.3.a El enunciado (statements) for
+##### Tema U1.3.b El enunciado (statements) for
 
 ### Semana 3
 **Unidad I**
@@ -60,7 +60,6 @@
 *26 -> 29 Febrero 2024, 1 Marzo 2024 *
 #### Tema U3.1 Funciones y sus argumentos/parámetros en Python
 #### Tema U3.2 Listas de argumentos arbitrarios y parámetros especiales para las funciones en Python
-
 
 ### Semana 9
 **Unidad III**
@@ -101,5 +100,5 @@
 **Recursos de acreditación (rA)**
 *17 y 18 Abril 2024*
 
-**Cierre captura de calificaciones Enero-Abril 2024**
+**Cierre de captura de calificaciones Enero-Abril 2024**
 *19 Abril 2024*
